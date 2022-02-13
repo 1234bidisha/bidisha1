@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width-device-width, Initial scale=1.0">
+<title>comments</title>
+<link rel="stylesheet" href="css/style1.css">
+</head>
+<body>
+    <hr>
+    <div class="box1">
+        <h3>comments</h3>
+        <button type="button">Filter</button><br>
+        <label>user1@gmail.com</label>
+       <button type="email">This is a random comment.</button><br>
+       <label>user2@gmail.com</label>
+       <button type="password">This is another comment.</button>
+       </div>
+    </body>
+    </html>
