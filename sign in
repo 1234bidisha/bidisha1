@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width-device-width, Initial scale=1.0">
+<title>Sign In</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <div class="signup-box">
+        <h1>Sign In</h1>
+        <h4>Don't have an account?<a href="#">Sign Up</a></h4>
+        <form>
+            <label>Email</label><br>
+            <input type="email"><br>
+            <label>Password</label><br>
+            <input type="password"><br>
+            <p> <a href="#">Forgot your password?</a></p>
+            <button type="button"><i class="fa fa-lock">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Sign In</i>
+        </form>
+        </div>
+</body>
+</html>
