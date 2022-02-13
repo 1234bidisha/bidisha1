@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width-device-width, Initial scale=1.0">
+<title>Sign In</title>
+<link rel="stylesheet" href="css/style1.css">
+</head>
+<body>
+    <p>What would you like to share with world?</p>
+        <div class="scroll-bg">
+        <div class="scroll-div">
+        <div class="scroll-object">  
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium sint nobis, doloribus quidem iusto vel at quam itaque cupiditate libero, aperiam blanditiis, fugiat illo cum aspernatur! Quod illum minus earum!</p> 
+        </div>        
+        </div>
+        </div>
+        <div class="button">
+        <button type="button">Submit</button>
+         </div>
+    </body>
+    </html>
