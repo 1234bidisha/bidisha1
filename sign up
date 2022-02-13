@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width-device-width, Initial scale=1.0">
+<title>Sign Up</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+   
+    <div class="signup-box">
+        <h1>Sign Up</h1>
+        <h4>Already have an account?<a href="#">Sign in</a></h4>
+        <form>
+            <label>Email</label><br>
+            <input type="email"><br>
+            <label>Password</label><br>
+            <input type="password"><br>
+            <label>Secret</label><br>
+            <input type="secret code"><br>
+            <button type="button"><i class="fa fa-lock">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; Sign Up</i>
+            </form>
+            
+        <p>By clicking the "Sign Up" button, you are creating an account , and you agree to the Terms of Use. </p>
+        
+    </div>
+    <p>By clicking the "Sign Up" button, you are creating an <br> account , and you agree to the Terms of Use. </p>
+</body>
+</html>
